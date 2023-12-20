@@ -1,0 +1,76 @@
+#page {
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-top: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#Login {
+    text-align: center;
+}
+
+.logsign {
+    border: none;
+    background: transparent;
+    width: 300px;
+}
+
+.forgot {
+    text-decoration: none;
+
+}
+
+#submit {
+    width: 300px;
+    height: 30px;
+    background-color: skyblue;
+    color: black;
+    border-radius: 20px;
+
+}
+
+#text {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#text1 {
+    margin-left: 30px;
+}
+
+#registration {
+    border: 2px solid black;
+    height: 600px;
+    width: 700px;
+    margin-left: 360px;
+}
+
+.klass {
+    width: 600px;
+    height: 20px;
+    margin-left: 30px;
+    border: 2px solid black;
+}
+
+.rform {
+    margin-left: 20px;
+}
+
+#password {
+    width: 600px;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+#registration1 {
+    width: 600px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(213, 202, 202);
+    font-weight: bolder;
+}
